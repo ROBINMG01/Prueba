@@ -1,4 +1,4 @@
-package co.edu.uptc.test;
+package co.edu.uptc.control;
 
 public class AppGeneral {
     public static void main(String[] args) {
